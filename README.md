@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Tutorial Hell Enthusiast & Professional Unemployed™️</h1>
+<h1 align="center"> Tutorial Hell Enthusiast & Professional Unemployed™</h1>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-alp-aslan)
@@ -11,8 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eaaslan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eaaslan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 3D Contribution Graph:
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ### 🛠️ Current Status:
 - 🎓 Professional Tutorial Collector
@@ -22,6 +21,4 @@
 - ⚡ Fun fact: I debug code by staring at it until it fixes itself
 
 ---
-[![](https://visitcount.itsvg.in/api?id=eaaslan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
