@@ -1,5 +1,5 @@
-<h1 align="center"> Tutorial Hell Enthusiast & Professional Unemployed™ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-alp-aslan)</h1>
-
+<h1 align="center"> Tutorial Hell Enthusiast & Professional Unemployed™ </h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-alp-aslan)
 
 
 
