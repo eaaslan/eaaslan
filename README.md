@@ -1,6 +1,5 @@
 <h1 align="center"> Tutorial Hell Enthusiast & Professional Unemployed™ </h1>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-alp-aslan)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enes-alp-aslan.com)   
 
 
 # 💻 Tech Stack:
