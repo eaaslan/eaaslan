@@ -1,6 +1,6 @@
 <h1 align="center"> Tutorial Hell Enthusiast & Professional Unemployed™</h1>
 
-## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-alp-aslan)
 
 # 💻 Tech Stack:
@@ -11,14 +11,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eaaslan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eaaslan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
 ### 🛠️ Current Status:
 - 🎓 Professional Tutorial Collector
 - 💼 Full-time Stack Overflow Explorer
 - 🌱 Learning everything while mastering nothing
 - 🎯 2024 Goals: Graduate from Tutorial Hell
-- ⚡ Fun fact: I debug code by staring at it until it fixes itself
 
----
+
 
