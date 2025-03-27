@@ -12,7 +12,6 @@
 
 # 📊 Stats for nerds:
 ![](https://github-readme-stats.vercel.app/api?username=eaaslan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eaaslan&theme=dark&hide_border=false)<br/>
 
 
 ### 🛠️ Current Status:
