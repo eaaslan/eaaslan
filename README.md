@@ -13,13 +13,13 @@
 # 📊 Stats for nerds:
 ![](https://github-readme-stats.vercel.app/api?username=eaaslan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eaaslan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eaaslan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### 🛠️ Current Status:
 - 🎓 Professional Tutorial Collector
 - 💼 Full-time Stack Overflow Explorer
 - 🌱 Learning everything while mastering nothing
-- 🎯 2024 Goals: Graduate from Tutorial Hell
+- 🎯 2025 Goals: Graduate from Tutorial Hell
 
 
 
